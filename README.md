@@ -5,7 +5,7 @@ As project has .gitignore file containing node_modules to avoid unncessary data 
 >npm install
 
 To serve the project:
->ng serv
+>ng serve
 
 Additionally, disable Samesite setting on web browser as the CORB feature prevents cross-site file reading and the image (logo) cannot be loaded from an insecure foreign source. 
 
